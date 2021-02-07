@@ -3,26 +3,26 @@ let tasks = [
     id: 1,
     task: "Go to the supermarket",
     done: true,
-    priority: "middle"
+    priority: "middle",
   },
   {
     id: 2,
     task: "Cook dinner",
     done: false,
-    priority: "high"
+    priority: "high",
   },
   {
     id: 3,
     task: "Call Mom",
     done: false,
-    priority: "low"
+    priority: "low",
   },
   {
     id: 4,
     task: "Study for test",
-    done: true,
-    priority: "high"
-  }
+    done: false,
+    priority: "high",
+  },
 ];
 
 export default tasks;
